@@ -76,30 +76,6 @@ http://localhost:3000
 
 ---
 
-## **Folder Structure**
-
-```plaintext
-raythori/
-├── app/
-│   ├── layout.tsx       # Root layout for the application
-│   ├── page.tsx         # Landing page
-│   └── styles/          # Global styles
-├── components/
-│   ├── Header.tsx       # Header component
-│   ├── Footer.tsx       # Footer component
-│   └── ui/              # Reusable UI components
-├── server/
-│   ├── index.js         # Server entry point
-│   ├── routes/          # API routes
-│   └── models/          # Database models
-├── docker-compose.yml   # Docker configuration
-├── .env.example         # Example environment variables
-├── package.json         # Dependencies and scripts
-└── README.md            # Project documentation
-```
-
----
-
 ## **Contributing**
 
 We welcome contributions! Here's how you can get started:
